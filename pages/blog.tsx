@@ -1,6 +1,7 @@
 export default function Blog() {
   return (
-    <div>Example Blog page</div>
-  )
+    <div>
+      <p>Sample p tag on blog page</p>
+    </div>
+  );
 }
-
