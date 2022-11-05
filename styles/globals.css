@@ -28,3 +28,8 @@ a {
 .title {
   color: red;
 }
+
+.title-notfound {
+  color: gray;
+  text-align: center;
+}
