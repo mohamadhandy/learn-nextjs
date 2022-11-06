@@ -1,7 +1,10 @@
 import React from 'react'
+import Layout from '../../components/Layout'
 
 export default function User() {
   return (
-    <div>User index root page</div>
+    <Layout>
+      <p>User index root page</p>
+    </Layout>
   )
 }
